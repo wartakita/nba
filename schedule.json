@@ -1,16 +1,18 @@
 [
   {
     "id": 1,
-    "game": "Lakers vs Warriors",
-    "date": "Jan 15, 2025",
-    "time": "07:00",
-    "videoId": "00000"
+    "game": "Game 1",
+    "date": "09-01-2025",
+    "time": "19:00",
+    "videoId": "00000",
+    "m3u8": "https://example.com/video123.m3u8"
   },
   {
     "id": 2,
-    "game": "Bulls vs Heat",
-    "date": "Jan 16, 2025",
-    "time": "08:00",
-    "videoId": "00000"
+    "game": "Game 2",
+    "date": "09-01-2025",
+    "time": "20:00",
+    "videoId": "00000",
+    "m3u8": "https://example.com/video456.m3u8"
   }
 ]
